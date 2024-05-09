@@ -7,6 +7,7 @@
 This is a tutorial to deploy and query a Local LLM on a Mac M1 or Linux system. 
 
 <p align="center"><img src="https://github.com/glickmac/Local_LLM/blob/main/images/red.jpg" width=60%></p>
+Photo by Mika Baumeister on Unsplash
 
 
 ## Table of Contents
