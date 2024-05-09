@@ -1,0 +1,14 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+numpy
+openai
+ruff
+transformers
+fastapi
+starlette
+uvicorn
+# sse_starlette
+# starlette_context
+# pydantic_settings
+
+
